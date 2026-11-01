@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "automated_tests": 20,
+  "tests": "passed",
+  "typecheck": "passed",
+  "format": "passed",
+  "production_build": "passed",
+  "local_responsive_widths": [
+    375,
+    753
+  ],
+  "horizontal_overflow": "none after fixes",
+  "public_smoke": "passed",
+  "public_browser": "calculation, save, reread, sharing, separate-tab read without editor token, real file download",
+  "export_sha256": "1cb34d1bd055972a853a1dff21a2a5ae95e2a0dd061612c34067c78d746fadb6",
+  "deployed_application_sha": "df678767d877836753b734c84a9a070ecae4054c",
+  "demo": "https://vagao-gustapaz.starrylinen.chatgpt.site"
+}
